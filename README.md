@@ -1,6 +1,8 @@
 # wapuutinger
 The "Wapuutinger" is a Wolpertinger representation of the "Wapuu".
 
+![Wapuutinger](wapuutinger.png?raw=true "Title")
+
 ## What is a wolpertinger?
 In German folklore, a wolpertinger (also called wolperdinger or woiperdinger) is an animal said to inhabit the alpine forests of Bavaria. It has a body comprising various animal parts — generally wings, antlers, tails and fangs, all attached to the body of a small mammal. Learn more on Wikipedia: https://en.wikipedia.org/wiki/Wolpertinger
 
